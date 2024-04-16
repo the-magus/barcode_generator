@@ -1,4 +1,3 @@
-# Sign Label Generator
 Generates labels for each row in an Excel file saved as PNG images.
 
 The Excel file should have three columns:
