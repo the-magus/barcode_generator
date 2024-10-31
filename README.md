@@ -70,3 +70,7 @@ The script will continuously check for new purchase order emails every hour, pro
 - `_main_.py`: Main script that runs the application.
 - `finished_pos.json`: JSON file to keep track of processed purchase orders.
 - `requirements.txt`: List of required Python packages.
+- `README.md`: Project overview and instructions.
+- `arial.ttf`: Font file for the QR code.
+- `arialbd.ttf`: Bold font file for the QR code.
+- `venv`: Virtual environment directory.
